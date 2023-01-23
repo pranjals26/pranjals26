@@ -17,4 +17,6 @@ Here are some ideas to get you started:
 
 - 👋 Hi, I'm Pranjal Shukla
 - 🌱 I’m currently pursuing my master in Business Analystics at George Washington University.
-- 💡 I'm Interested in turning historical Data into valuable and insightful business solutions.
+- 💡 I'm Interested in solving unstructured business problems using Machine learning, Statistics and Analytics. 
+- 👯 I’m looking to collaborate on related to data science.
+- ⚡ Fun fact: Cross country cyclist || Traveler || Social || Social entrepreneur
