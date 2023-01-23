@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
 - 👋 Hi, I'm Pranjal Shukla
 - 🌱 I’m currently pursuing my master in Business Analystics at George Washington University.
-- 💡 Keen Interest on turning Data into useful and insightful business solutions 
+- 💡 I'm Interested in turning historical Data into valuable and insightful business solutions.
