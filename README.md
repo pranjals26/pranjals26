@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 👋 Hi, I'm Pranjal Shukla
+- 🌱 I’m currently pursuing my master in Business Analystics at George Washington University.
+- 💡 Keen Interest on turning Data into useful and insightful business solutions 
