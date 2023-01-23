@@ -19,4 +19,4 @@ Here are some ideas to get you started:
 - 🌱 I’m currently pursuing my master in Business Analystics at George Washington University.
 - 💡 I'm Interested in solving unstructured business problems using Machine learning, Statistics and Analytics. 
 - 👯 I’m looking to collaborate on related to data science.
-- ⚡ Fun fact: Cross country cyclist || Traveler || Social || Social entrepreneur
+- ⚡ Fun fact: Cross country cyclist 🚴  || Traveler 🗺️ || Social entrepreneur 🕴️
