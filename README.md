@@ -24,7 +24,17 @@ Here are some ideas to get you started:
 - 📫 Connect with me: pranjalshukla98@gwu.edu
 - ⚡ Fun fact: Cross country cyclist 🚴  || Traveler 🗺️ || Social entrepreneur 🕴️
 
+## Language and tools 
+
+- Languages: Python (Pandas, NumPy, scikit-learn, Keras, TensorFlow, PyTorch, Matplotlib, XGBoost, NLTK, Seaborn) SQL, R, Stata, Java.
+- Cloud & ETL: AWS, Snowflake, Kafka, Airflow, SparkSQL, Flask, Apache NIFI, SSIS, Data Warehousing
+- Data Visualization & SDLC: Tableau Alteryx, Agile Methodologies, SCRUM, (SAFe), Waterfall Model, Jira
+
 ## 📊 GitHub Stats
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=pranjals26&theme=original)](https://git.io/streak-stats)
+![GitHub streak stats](https://streak-stats.demolab.com/?user=pranjals26)  
+
+
+
+
 
