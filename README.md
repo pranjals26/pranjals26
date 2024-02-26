@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <!--
 **pranjals26/pranjals26** is a ✨ _particular_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,6 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![Your GitHub stats](https://github.com/pranjals26/pranjals26/blob/main/codergif.gif)
+
+### Hi there 👋
 
 - 👋 Hi, I'm Pranjal Shukla
 - 🌱 I'm an MSBA graduate from George Washington University
