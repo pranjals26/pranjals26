@@ -16,15 +16,15 @@ Here are some ideas to get you started:
 -->
 ![Your GitHub stats](https://github.com/pranjals26/pranjals26/blob/main/codergif.gif)
 
-### Hi there 👋
+## Hi there 👋, I'm Pranjal Shukla 
 
-- 👋 Hi, I'm Pranjal Shukla
-- 🌱 I'm an MSBA graduate from George Washington University
-- 💡 I specialize in leveraging advanced analytics and machine learning to drive business insights and efficiency
+- 🔭 I'm currently working on Data streaming and ETL projects.
+- 🌱 I'm learning to work with data to make them even more convincing.
+- 💡 Specialize in leveraging advanced analytics and machine learning to drive business insights and efficiency.
+- 📫 Connect with me: pranjalshukla98@gwu.edu
 - ⚡ Fun fact: Cross country cyclist 🚴  || Traveler 🗺️ || Social entrepreneur 🕴️
-
 
 ## 📊 GitHub Stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=pranjals26)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=pranjals26&theme=original)](https://git.io/streak-stats)
 
