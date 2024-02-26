@@ -17,6 +17,7 @@ Here are some ideas to get you started:
 ![Your GitHub stats](https://github.com/pranjals26/pranjals26/blob/main/codergif.gif)
 
 ## Hi there 👋, I'm Pranjal Shukla 
+<br />  Data Scientist | Data Analyst | Data Engineer | Business Analyst
 
 - 🔭 I'm currently working on Data streaming and ETL projects.
 - 🌱 I'm learning to work with data to make them even more convincing.
