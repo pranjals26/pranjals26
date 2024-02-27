@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 <br />  Data Scientist | Data Analyst | Data Engineer | Business Analyst
 
 - 🔭 I'm currently working on Data streaming and ETL projects.
-- 🌱 I'm learning to work with data to make them even more convincing.
+- 🌱 I'm learning Alteryx report automation and AWS services for data analysis.
 - 💡 Specialize in leveraging advanced analytics and machine learning to drive business insights and efficiency.
 - 📫 Connect with me: pranjalshukla98@gwu.edu
 - ⚡ Fun fact: Cross country cyclist 🚴  || Traveler 🗺️ || Social entrepreneur 🕴️
