@@ -17,11 +17,11 @@ Here are some ideas to get you started:
 ![Your GitHub stats](https://github.com/pranjals26/pranjals26/blob/main/codergif.gif)
 
 ## Hi there 👋, I'm Pranjal Shukla 
-<br />  Data Scientist | Data Analyst | Data Engineer | Business Analyst
+<br />  Data Scientist | Cloud Solution Architect | ML Engineer 
 
 - 🔭 I'm currently working on Data streaming and ETL projects.
 - 🌱 I'm learning Alteryx report automation and AWS services for data analysis.
-- 💡 Specialize in leveraging advanced analytics and machine learning to drive business insights and efficiency.
+- 💡 Specializing in leveraging advanced analytics and machine learning to drive business insights and efficiency.
 - 📫 Connect with me: pranjalshukla98@gwu.edu
 - ⚡ Fun fact: Cross country cyclist 🚴  || Traveler 🗺️ || Social entrepreneur 🕴️
 
@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 
 - Languages: Python (Pandas, NumPy, scikit-learn, Keras, TensorFlow, PyTorch, Matplotlib, XGBoost, NLTK, Seaborn) SQL, R, Stata, Java.
 - Cloud & ETL: AWS, Snowflake, Kafka, Airflow, SparkSQL, Flask, Apache NIFI, SSIS, Data Warehousing
-- Data Visualization & SDLC: Tableau Alteryx, Agile Methodologies, SCRUM, (SAFe), Waterfall Model, Jira
+- Data Visualization & SDLC: Tableau, Alteryx, Agile Methodologies, SCRUM, (SAFe), Waterfall Model, Jira
 
 ## 📊 GitHub Stats
 
